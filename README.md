@@ -1,16 +1,75 @@
-## Hi there 👋
+# Hi, I'm Akshay
 
-<!--
-**akshayyelne/akshayyelne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product Manager | AI & Automation Enthusiast
 
-Here are some ideas to get you started:
+I build and ship AI-powered tools that help organisations make better decisions using data, automation, and intelligent agents.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work focuses on:
+
+- AI Agents
+- AI powered prototypes/apps
+- Traditional and Agentic Retrieval Augmented Generation (RAG)
+- Intent and state based NLP
+- LLM based NLP
+- Prompt Engineering
+- Automation for business workflows
+  
+##  What I Work On
+
+- AI Agents
+- Multi-agent systems
+- RAG applications
+- Business automation
+- AI product strategy
+
+##  Tech Stack
+
+Python  
+LangChain  
+OpenAI / LLMs  
+Vector Databases  
+Streamlit / Gradio  
+SQL
+
+![Python](https://img.shields.io/badge/Python-blue)
+![OpenAI](https://img.shields.io/badge/OpenAI-black)
+![LangChain](https://img.shields.io/badge/LangChain-green)
+
+## 🚀 Featured Projects
+
+### Clinical Discharge Intelligence AI
+AI system that analyses hospital discharge summaries using RAG.
+
+Key features:
+- Patient-level reasoning
+- Cross-patient comparison
+- Risk factor analysis
+
+### Customer Sentiment Intelligence
+AI assistant that analyses customer feedback and generates insights.
+
+Features:
+- Key drivers
+- Risk outlook
+- Recommended actions
+
+### Rebate Process Automation
+Automation solution for rebate processing workflows.
+
+Impact:
+- Reduced manual processing
+- Improved financial accuracy
+- Increased operational scalability
+
+## Connect With Me
+
+LinkedIn: www.linkedin.com/in/akshay-yelne 
+
+Portfolio: https://enlightened-successes-915605.framer.app/ (Work in Progress)
+
+Email: akshayyelne000@gmail.com
+
+
+## GitHub Stats
+
+![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshayyelne&show_icons=true)
