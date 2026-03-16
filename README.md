@@ -1,6 +1,6 @@
 # Hi, I'm Akshay
 
-Product Manager | AI & Automation Enthusiast
+Product Manager | AI & Automation Specialist
 
 I build and ship AI-powered tools that help organisations make better decisions using data, automation, and intelligent agents.
 
