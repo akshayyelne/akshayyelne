@@ -57,13 +57,13 @@ Features:
 - Risk outlook
 - Recommended actions
 
-### Home Based care Intelligence
+### Home Based care Intelligence (work in progress)
 Schedule 24/7, improve care delivery, and eliminate visit verification errors while de-risking the business operation with agents built for home-based care.
 
-Impact:
-- Reduce operational costs by 80%
-- 24/7 Support
-- Increased operational scalability
+Features
+- Scheduling Agent
+- Care Plan Agent
+- Visit Verification Agent
 
 ## Connect With Me
 
