@@ -35,6 +35,10 @@ SQL
 ![OpenAI](https://img.shields.io/badge/OpenAI-black)
 ![LangChain](https://img.shields.io/badge/LangChain-green)
 
+## My Roadmap ##
+
+https://github.com/akshayyelne/AI-Product-learning-and-applications-Roadmap/blob/main/ai-product-management-roadmap.md
+
 ## 🚀 Featured Projects
 
 ### Clinical Discharge Intelligence AI
