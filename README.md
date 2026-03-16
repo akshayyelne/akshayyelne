@@ -57,12 +57,12 @@ Features:
 - Risk outlook
 - Recommended actions
 
-### Rebate Process Automation
-Automation solution for rebate processing workflows.
+### Home Based care Intelligence
+Schedule 24/7, improve care delivery, and eliminate visit verification errors while de-risking your business operation with agents built for home-based care.
 
 Impact:
-- Reduced manual processing
-- Improved financial accuracy
+- Reduce operational costs by 80%
+- 24/7 Support
 - Increased operational scalability
 
 ## Connect With Me
