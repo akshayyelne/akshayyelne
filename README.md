@@ -16,11 +16,13 @@ My work focuses on:
   
 ##  What I Work On
 
-- AI Agents
-- Multi-agent systems
+- AI Product Discovery and Strategy
+- AI Product Design and Prototyping- 
+- Building AI Agents
+- Building Multi-agent systems
 - RAG applications
-- Business automation
-- AI product strategy
+- Workflow automation
+- GTM
 
 ##  Tech Stack
 
