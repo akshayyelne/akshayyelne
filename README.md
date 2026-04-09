@@ -59,13 +59,10 @@ Features:
 - Risk outlook
 - Recommended actions
 
-### Home Based care Intelligence (work in progress)
-Schedule 24/7, improve care delivery, and eliminate visit verification errors while de-risking the business operation with agents built for home-based care.
+### Soulora — AI Mental Wellbeing Sanctuary
+A proactive, agentic mental wellness platform built with LangGraph, FastAPI, and Next.js.
 
-Features
-- Scheduling Agent
-- Care Plan Agent
-- Visit Verification Agent
+Soulora bridges evidence-based wellbeing practices with agentic AI — providing personalised support plans, micro-rituals, retreat matchmaking, and real-time emotional reflection, all wrapped in a premium glassmorphic UI. Soulora utilizes a specialized team of multi - AI agents to ensure high-fidelity support.
 
 ## Connect With Me
 
