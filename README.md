@@ -63,6 +63,8 @@ Portfolio: https://enlightened-successes-915605.framer.app/ (Work in Progress)
 
 Email: akshayyelne000@gmail.com
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-yelne)
+
 
  GitHub Stats
 
