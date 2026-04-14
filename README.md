@@ -53,26 +53,6 @@ https://github.com/akshayyelne/AI-Product-learning-and-applications-Roadmap/blob
 | **Clinical Intelligence** | • **RAG Reasoning:** Patient-level & cross-patient clinical analysis.<br>• **Risk Profiling:** Automated identification of readmission factors.<br>• **Governance:** Built for high-fidelity clinical safety. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square) ![Ollama](https://img.shields.io/badge/-Ollama-white?style=flat-square) | [📂 Repo](#) <br> [📄 Case Study](#) |
 | **CX Sentiment AI** | • **Driver Analysis:** Identifies key churn/loyalty triggers.<br>• **Actionable Insights:** Maps sentiment to specific business units.<br>• **Enterprise Ready:** Optimized for Microsoft-stack integration. | ![MS Stack](https://img.shields.io/badge/-Microsoft-0078D4?style=flat-square) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square) ![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=flat-square) | [📂 Repo](https://github.com/akshayyelne/cx-ai-sentiment-prototype) |
 
-### Clinical Discharge Intelligence AI
-AI system that analyses hospital discharge summaries using RAG.
-
-Key features:
-- Patient-level reasoning
-- Cross-patient comparison
-- Risk factor analysis
-
-### Customer Sentiment Intelligence
-AI assistant that analyses customer feedback and generates insights.
-
-Features:
-- Key drivers
-- Risk outlook
-- Recommended actions
-
-### Soulora — AI Mental Wellbeing Sanctuary
-A proactive, agentic mental wellness platform built with LangGraph, FastAPI, and Next.js.
-
-Soulora bridges evidence-based wellbeing practices with agentic AI — providing personalised support plans, micro-rituals, retreat matchmaking, and real-time emotional reflection, all wrapped in a premium glassmorphic UI. Soulora utilizes a specialized team of multi - AI agents to ensure high-fidelity support.
 
 ## Connect With Me
 
