@@ -25,14 +25,6 @@ My work focuses on:
 [![Workflow Automation](https://img.shields.io/badge/Workflow%20Automation-2CA444?style=for-the-badge&logo=n8n&logoColor=white)](#)
 [![GTM Strategy](https://img.shields.io/badge/GTM%20Strategy-E34F26?style=for-the-badge&logo=google-tag-manager&logoColor=white)](#)
 
-- AI Product Discovery and Strategy
-- AI Product Design and Prototyping- 
-- Building AI Agents
-- Building Multi-agent systems
-- RAG applications
-- Workflow automation
-- GTM
-
 ##  Tech Stack
 
 Python  
