@@ -16,7 +16,14 @@ My work focuses on:
   
 ##  What I Work On
 
-[![Label](https://img.shields.io/badge/LABEL_TEXT-HEX_COLOR?style=for-the-badge&logo=LOGO_NAME&logoColor=white)](#)
+
+[![AI Product Discovery](https://img.shields.io/badge/Product%20Discovery-0078D4?style=for-the-badge&logo=microsoft-academic&logoColor=white)](#)
+[![AI Product Design](https://img.shields.io/badge/AI%20Design%20%26%20Proto-FFB900?style=for-the-badge&logo=figma&logoColor=black)](#)
+[![Building AI Agents](https://img.shields.io/badge/AI%20Agents-412991?style=for-the-badge&logo=openai&logoColor=white)](#)
+[![Multi-agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-D22128?style=for-the-badge&logo=langchain&logoColor=white)](#)
+[![RAG Applications](https://img.shields.io/badge/RAG%20Applications-0052CC?style=for-the-badge&logo=confluence&logoColor=white)](#)
+[![Workflow Automation](https://img.shields.io/badge/Workflow%20Automation-2CA444?style=for-the-badge&logo=n8n&logoColor=white)](#)
+[![GTM Strategy](https://img.shields.io/badge/GTM%20Strategy-E34F26?style=for-the-badge&logo=google-tag-manager&logoColor=white)](#)
 
 - AI Product Discovery and Strategy
 - AI Product Design and Prototyping- 
