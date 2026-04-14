@@ -43,6 +43,23 @@ https://github.com/akshayyelne/AI-Product-learning-and-applications-Roadmap/blob
 
 ## 🚀 Featured Projects
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Soulora — AI Wellbeing</h3>
+      <img src="https://via.placeholder.com/400x200?text=Soulora+UI+Preview" alt="Soulora Preview" width="100%"/>
+      <p>A proactive, agentic wellness platform built with LangGraph and FastAPI.</p>
+      <a href="YOUR_REPO_LINK">View Code</a> • <a href="YOUR_DEMO_LINK">Live Demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Clinical Discharge AI</h3>
+      <img src="https://via.placeholder.com/400x200?text=Clinical+Intelligence+Preview" alt="Clinical AI Preview" width="100%"/>
+      <p>HIPAA-ready RAG system for patient reasoning and risk factor analysis.</p>
+      <a href="YOUR_REPO_LINK">View Code</a> • <a href="YOUR_CASE_STUDY_LINK">Theory/Docs</a>
+    </td>
+  </tr>
+</table>
+
 ### Clinical Discharge Intelligence AI
 AI system that analyses hospital discharge summaries using RAG.
 
