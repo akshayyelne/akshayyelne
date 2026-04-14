@@ -6,13 +6,13 @@ I build and ship AI-powered tools that help organisations make better decisions 
 
 My work focuses on:
 
-[![AI Agents](https://img.shields.io/badge/AI%20Agents-412991?style=for-the-badge&logo=openai&logoColor=white)](#)
-[![AI Prototypes](https://img.shields.io/badge/AI%20Prototypes-FFB900?style=for-the-badge&logo=fastapi&logoColor=black)](#)
-[![Agentic RAG](https://img.shields.io/badge/Agentic%20RAG-0052CC?style=for-the-badge&logo=databricks&logoColor=white)](#)
-[![Intent Based NLP](https://img.shields.io/badge/Intent%20%26%20State%20NLP-008080?style=for-the-badge&logo=diagrams.net&logoColor=white)](#)
-[![LLM NLP](https://img.shields.io/badge/LLM%20NLP-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-[![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6F61?style=for-the-badge&logo=probot&logoColor=white)](#)
-[![Business Workflows](https://img.shields.io/badge/Business%20Workflows-2CA444?style=for-the-badge&logo=make&logoColor=white)](#)
+[![AI Agents](https://img.shields.io/badge/AI%20Agents-334155?style=flat&logo=openai&logoColor=white)](#)
+[![AI Prototypes](https://img.shields.io/badge/AI%20Prototypes-475569?style=flat&logo=fastapi&logoColor=white)](#)
+[![Agentic RAG](https://img.shields.io/badge/Agentic%20RAG-1e293b?style=flat&logo=databricks&logoColor=white)](#)
+[![Intent Based NLP](https://img.shields.io/badge/Intent%20%26%20State%20NLP-57606a?style=flat&logo=diagrams.net&logoColor=white)](#)
+[![LLM NLP](https://img.shields.io/badge/LLM%20NLP-3776AB?style=flat&logo=python&logoColor=white)](#)
+[![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-64748b?style=flat&logo=probot&logoColor=white)](#)
+[![Business Workflows](https://img.shields.io/badge/Business%20Workflows-2e7d32?style=flat&logo=make&logoColor=white)](#)
   
 ##  What I Work On
 
