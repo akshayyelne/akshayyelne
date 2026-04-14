@@ -43,12 +43,6 @@ https://github.com/akshayyelne/AI-Product-learning-and-applications-Roadmap/blob
 
 ## 🚀 Featured Projects
 
-### 🌟 Featured Projects
-
-### 🌟 Featured Projects
-
-### 🌟 Featured Projects
-
 | Project | Key Features | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
 | **Soulora** | • **Agentic Support:** Multi-agent teams for wellness.<br>• **Micro-rituals:** Proactive, habit-stacking interventions.<br>• **Glassmorphic UI:** Premium, calming UX. | ![LangGraph](https://img.shields.io/badge/-LangGraph-orange?style=flat-square) ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square) | [📂 Repo](https://github.com/akshayyelne/Soulora-Agentic-Mental-Health-Wellbeing-Sanctuary) <br> [📺 Demo](#) <br> [🧠 **Architecture Theory**](https://github.com/akshayyelne/Soulora-Agentic-Mental-Health-Wellbeing-Sanctuary#architecture) |
