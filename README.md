@@ -33,11 +33,20 @@ Currently playing with
 [![Streamlit / Gradio](https://img.shields.io/badge/Streamlit%20%2F%20Gradio-FF4B4B?style=flat&logo=streamlit&logoColor=white)](#)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](#)
 
-## My AI learning Roadmap ##
+My AI learning Roadmap ##
 
-https://github.com/akshayyelne/AI-Product-learning-and-applications-Roadmap/blob/main/ai-product-management-roadmap.md
+### 🧠 My AI Portfolio Strategy & Learning Roadmap
+> *Mapping the transition from traditional PM to AI-Native Product Engineering.*
 
-## 🚀 Featured Projects
+| Phase | Focus Area | Status |
+| :--- | :--- | :--- |
+| **01: Foundations** | LLM Architectures, Prompt Engineering, & PDLC | ![100%](https://geps.dev/progress/100?dangerColor=334155&warningColor=334155&successColor=2e7d32) |
+| **02: Engineering** | Agentic RAG, LangGraph, & Multi-Agent Orchestration | ![75%](https://geps.dev/progress/75?dangerColor=334155&warningColor=334155&successColor=2e7d32) |
+| **03: Governance** | Clinical Safety, HIPAA Compliance, & AI Ethics | ![50%](https://geps.dev/progress/50?dangerColor=334155&warningColor=334155&successColor=2e7d32) |
+
+👉 **[View Full Roadmap & Learning Journey](https://github.com/akshayyelne/AI-Product-learning-and-applications-Roadmap/blob/main/ai-product-management-roadmap.md)**
+
+ Featured Projects
 
 | Project | Key Features | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
@@ -46,7 +55,7 @@ https://github.com/akshayyelne/AI-Product-learning-and-applications-Roadmap/blob
 | **CX Sentiment AI** | • **Driver Analysis:** Identifies churn/loyalty triggers.<br>• **Actionable Insights:** Maps sentiment to business units.<br>• **Enterprise Ready:** Optimized for Microsoft-stack. | ![MS Stack](https://img.shields.io/badge/-Microsoft-0078D4?style=flat-square) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square) | [📂 Repo](https://github.com/akshayyelne/cx-ai-sentiment-prototype) <br> [📘 **System Design**](#) |
 
 
-## Connect With Me
+Connect With Me
 
 LinkedIn: www.linkedin.com/in/akshay-yelne 
 
@@ -55,6 +64,6 @@ Portfolio: https://enlightened-successes-915605.framer.app/ (Work in Progress)
 Email: akshayyelne000@gmail.com
 
 
-## GitHub Stats
+ GitHub Stats
 
 ![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshayyelne&show_icons=true)
