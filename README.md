@@ -4,7 +4,7 @@ Product Manager | Project Manager | Bridging Strategy & Engineering to build saf
 
 I build and ship AI-powered tools that help organisations make better decisions using data, automation, and intelligent agents.
 
-Core Expertise:
+# Core Expertise:
 
 [![AI Agents](https://img.shields.io/badge/AI%20Agents-334155?style=flat&logo=openai&logoColor=white)](#)
 [![AI Prototypes](https://img.shields.io/badge/AI%20Prototypes-475569?style=flat&logo=fastapi&logoColor=white)](#)
@@ -14,7 +14,7 @@ Core Expertise:
 [![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-64748b?style=flat&logo=probot&logoColor=white)](#)
 [![Business Workflows](https://img.shields.io/badge/Business%20Workflows-2e7d32?style=flat&logo=make&logoColor=white)](#)
   
-Currently playing with
+# Currently playing with
 
 [![AI Product Discovery](https://img.shields.io/badge/Product%20Discovery-24292f?style=flat&logo=microsoft-academic&logoColor=white)](#)
 [![AI Product Design](https://img.shields.io/badge/AI%20Design%20%26%20Proto-334155?style=flat&logo=figma&logoColor=white)](#)
@@ -24,7 +24,7 @@ Currently playing with
 [![Workflow Automation](https://img.shields.io/badge/Workflow%20Automation-24292f?style=flat&logo=n8n&logoColor=white)](#)
 [![GTM Strategy](https://img.shields.io/badge/GTM%20Strategy-475569?style=flat&logo=google-tag-manager&logoColor=white)](#)
 
-##  Tech Stack
+# Tech Stack
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](#)
 [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)](#)
@@ -35,7 +35,7 @@ Currently playing with
 
 My AI learning Roadmap ##
 
-### 🧠 My AI Portfolio Strategy & Learning Roadmap
+# My AI Portfolio Strategy & Learning Roadmap
 > *Mapping the transition from traditional PM to AI-Native Product Engineering.*
 
 | Phase | Focus Area | Status |
