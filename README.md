@@ -2,7 +2,7 @@
 
 Product Manager | Project Manager | Bridging Strategy & Engineering to build safe, agentic AI.
 
-I build and ship AI-powered tools that help organisations make better decisions using data, automation, and intelligent agents.
+I build and ship AI-powered products that help organisations make better decisions using data, automation, and intelligent agents.
 
 ### Core Expertise:
 
