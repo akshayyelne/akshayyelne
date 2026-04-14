@@ -1,6 +1,6 @@
 # Hi, I'm Akshay
 
-Project Manager | AI & Automation Specialist
+Product Manager | Project Manager | Bridging Strategy & Engineering to build safe, agentic AI.
 
 I build and ship AI-powered tools that help organisations make better decisions using data, automation, and intelligent agents.
 
