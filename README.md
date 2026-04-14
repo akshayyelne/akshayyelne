@@ -18,7 +18,7 @@ My work focuses on:
 
 
 [![AI Product Discovery](https://img.shields.io/badge/Product%20Discovery-0078D4?style=for-the-badge&logo=microsoft-academic&logoColor=white)](#)
-[![AI Product Design](https://img.shields.io/badge/AI%20Design%20%26%20Proto-FFB900?style=for-the-badge&logo=figma&logoColor=black)](#)
+[![AI Product Design](https://img.shields.io/badge/AI%20Design%20%26%20Prototype-FFB900?style=for-the-badge&logo=figma&logoColor=black)](#)
 [![Building AI Agents](https://img.shields.io/badge/AI%20Agents-412991?style=for-the-badge&logo=openai&logoColor=white)](#)
 [![Multi-agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-D22128?style=for-the-badge&logo=langchain&logoColor=white)](#)
 [![RAG Applications](https://img.shields.io/badge/RAG%20Applications-0052CC?style=for-the-badge&logo=confluence&logoColor=white)](#)
