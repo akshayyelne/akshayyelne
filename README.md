@@ -57,12 +57,8 @@ My AI learning Roadmap ##
 
 Connect With Me
 
-LinkedIn: www.linkedin.com/in/akshay-yelne 
-
-Portfolio: https://enlightened-successes-915605.framer.app/ (Work in Progress)
-
-Email: akshayyelne000@gmail.com
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292f?style=flat&logo=framer&logoColor=white)](https://enlightened-successes-915605.framer.app/)
+[![Email](https://img.shields.io/badge/Email-475569?style=flat&logo=gmail&logoColor=white)](mailto:akshayyelne000@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-yelne)
 
 
