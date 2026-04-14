@@ -43,6 +43,13 @@ https://github.com/akshayyelne/AI-Product-learning-and-applications-Roadmap/blob
 
 ## 🚀 Featured Projects
 
+### 🌟 Featured Projects
+
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **Soulora** | Proactive AI Mental Wellbeing Sanctuary using multi-agent teams. | ![FastAPI](https://img.shields.io/badge/-FastAPI-05998b?style=flat-square) ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square) | [📂 Repo](https://github.com/akshayyelne/soulora) <br> [📺 Demo](#) |
+| **Clinical Intelligence** | AI-driven analysis of hospital discharge summaries using RAG. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square) | [📂 Repo](#) <br> [📄 Case Study](#) |
+| **CX Sentiment AI** | Enterprise-grade sentiment analysis for customer feedback loops. | ![MS Stack](https://img.shields.io/badge/-Microsoft-0078D4?style=flat-square) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square) | [📂 Repo](https://github.com/akshayyelne/cx-ai-sentiment-prototype) |
 
 ### Clinical Discharge Intelligence AI
 AI system that analyses hospital discharge summaries using RAG.
