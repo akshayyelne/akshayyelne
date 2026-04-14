@@ -4,7 +4,7 @@ Product Manager | Project Manager | Bridging Strategy & Engineering to build saf
 
 I build and ship AI-powered tools that help organisations make better decisions using data, automation, and intelligent agents.
 
-My work focuses on:
+## Core Expertise:
 
 [![AI Agents](https://img.shields.io/badge/AI%20Agents-334155?style=flat&logo=openai&logoColor=white)](#)
 [![AI Prototypes](https://img.shields.io/badge/AI%20Prototypes-475569?style=flat&logo=fastapi&logoColor=white)](#)
@@ -14,16 +14,15 @@ My work focuses on:
 [![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-64748b?style=flat&logo=probot&logoColor=white)](#)
 [![Business Workflows](https://img.shields.io/badge/Business%20Workflows-2e7d32?style=flat&logo=make&logoColor=white)](#)
   
-##  What I Work On
+##  Currently playing with
 
-
-[![AI Product Discovery](https://img.shields.io/badge/Product%20Discovery-0078D4?style=for-the-badge&logo=microsoft-academic&logoColor=white)](#)
-[![AI Product Design](https://img.shields.io/badge/AI%20Design%20%26%20Prototype-FFB900?style=for-the-badge&logo=figma&logoColor=black)](#)
-[![Building AI Agents](https://img.shields.io/badge/AI%20Agents-412991?style=for-the-badge&logo=openai&logoColor=white)](#)
-[![Multi-agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-D22128?style=for-the-badge&logo=langchain&logoColor=white)](#)
-[![RAG Applications](https://img.shields.io/badge/RAG%20Applications-0052CC?style=for-the-badge&logo=confluence&logoColor=white)](#)
-[![Workflow Automation](https://img.shields.io/badge/Workflow%20Automation-2CA444?style=for-the-badge&logo=n8n&logoColor=white)](#)
-[![GTM Strategy](https://img.shields.io/badge/GTM%20Strategy-E34F26?style=for-the-badge&logo=google-tag-manager&logoColor=white)](#)
+[![AI Product Discovery](https://img.shields.io/badge/Product%20Discovery-24292f?style=flat&logo=microsoft-academic&logoColor=white)](#)
+[![AI Product Design](https://img.shields.io/badge/AI%20Design%20%26%20Proto-334155?style=flat&logo=figma&logoColor=white)](#)
+[![Building AI Agents](https://img.shields.io/badge/AI%20Agents-412991?style=flat&logo=openai&logoColor=white)](#)
+[![Multi-agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-1e293b?style=flat&logo=langchain&logoColor=white)](#)
+[![RAG Applications](https://img.shields.io/badge/RAG%20Applications-0052CC?style=flat&logo=confluence&logoColor=white)](#)
+[![Workflow Automation](https://img.shields.io/badge/Workflow%20Automation-24292f?style=flat&logo=n8n&logoColor=white)](#)
+[![GTM Strategy](https://img.shields.io/badge/GTM%20Strategy-475569?style=flat&logo=google-tag-manager&logoColor=white)](#)
 
 ##  Tech Stack
 
