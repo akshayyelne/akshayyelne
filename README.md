@@ -33,10 +33,6 @@ Currently playing with
 [![Streamlit / Gradio](https://img.shields.io/badge/Streamlit%20%2F%20Gradio-FF4B4B?style=flat&logo=streamlit&logoColor=white)](#)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](#)
 
-![OpenAI](https://img.shields.io/badge/OpenAI-black)
-![LangChain](https://img.shields.io/badge/LangChain-green)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
 ## My AI learning Roadmap ##
 
 https://github.com/akshayyelne/AI-Product-learning-and-applications-Roadmap/blob/main/ai-product-management-roadmap.md
