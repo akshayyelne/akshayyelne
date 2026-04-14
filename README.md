@@ -4,7 +4,7 @@ Product Manager | Project Manager | Bridging Strategy & Engineering to build saf
 
 I build and ship AI-powered tools that help organisations make better decisions using data, automation, and intelligent agents.
 
-## Core Expertise:
+Core Expertise:
 
 [![AI Agents](https://img.shields.io/badge/AI%20Agents-334155?style=flat&logo=openai&logoColor=white)](#)
 [![AI Prototypes](https://img.shields.io/badge/AI%20Prototypes-475569?style=flat&logo=fastapi&logoColor=white)](#)
@@ -14,7 +14,7 @@ I build and ship AI-powered tools that help organisations make better decisions 
 [![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-64748b?style=flat&logo=probot&logoColor=white)](#)
 [![Business Workflows](https://img.shields.io/badge/Business%20Workflows-2e7d32?style=flat&logo=make&logoColor=white)](#)
   
-##  Currently playing with
+Currently playing with
 
 [![AI Product Discovery](https://img.shields.io/badge/Product%20Discovery-24292f?style=flat&logo=microsoft-academic&logoColor=white)](#)
 [![AI Product Design](https://img.shields.io/badge/AI%20Design%20%26%20Proto-334155?style=flat&logo=figma&logoColor=white)](#)
@@ -26,12 +26,12 @@ I build and ship AI-powered tools that help organisations make better decisions 
 
 ##  Tech Stack
 
-Python  
-LangChain  
-OpenAI / LLMs  
-Vector Databases  
-Streamlit / Gradio  
-SQL
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](#)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)](#)
+[![OpenAI / LLMs](https://img.shields.io/badge/OpenAI%20%2F%20LLMs-412991?style=flat&logo=openai&logoColor=white)](#)
+[![Vector Databases](https://img.shields.io/badge/Vector%20Databases-1e293b?style=flat&logo=databricks&logoColor=white)](#)
+[![Streamlit / Gradio](https://img.shields.io/badge/Streamlit%20%2F%20Gradio-FF4B4B?style=flat&logo=streamlit&logoColor=white)](#)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](#)
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-black)
 ![LangChain](https://img.shields.io/badge/LangChain-green)
