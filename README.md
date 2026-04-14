@@ -16,6 +16,8 @@ My work focuses on:
   
 ##  What I Work On
 
+[![Label](https://img.shields.io/badge/LABEL_TEXT-HEX_COLOR?style=for-the-badge&logo=LOGO_NAME&logoColor=white)](#)
+
 - AI Product Discovery and Strategy
 - AI Product Design and Prototyping- 
 - Building AI Agents
